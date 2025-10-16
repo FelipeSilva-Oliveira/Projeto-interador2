@@ -1,0 +1,25 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body, #root {
+  height: 100%;
+  width: 100%;
+  background-color: #f5f5f5; 
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.5;
+}
+ 
+.app_layout {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.content {
+  flex: 1; 
+  padding: 20px;
+}

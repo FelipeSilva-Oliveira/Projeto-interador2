@@ -1,0 +1,30 @@
+{
+    "modalidades": [
+        {
+            "id": 1,
+            "nome": "Natação",
+            "nivel": "Basico",
+            "local": "Piscina",
+            "professor": "Renato",
+            "horarios": "9h a 10h",
+            "turno":"Matutino",
+            "idade":"Adulto",
+            "dias da semana":"seg/ter/qui",
+            "disponivel em": "CEU - Rosa da China"
+        },
+        {
+            "id": 2,
+            "nome": "Futsal",
+            "nivel": "Avançado",
+            "local": "Quadra",
+            "professor": "Paulo",
+            "horarios": "9h a 10h",
+            "turno":"Matutino",
+            "idade":"Adulto",
+            "dias da semana":"seg/ter",
+            "disponivel em": "CEU - Rosa da China"
+        }
+        
+    ]
+    
+}

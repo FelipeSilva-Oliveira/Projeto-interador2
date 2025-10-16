@@ -1,0 +1,14 @@
+.container{
+    padding: 1em;
+    
+}
+
+.container select{
+    font-size: 16px;
+    padding: .6em;
+    text-transform: uppercase;
+    border: 1px solid #ccc;
+    box-shadow: 1px 1px 1px #999;
+    border-radius: 5px;
+    cursor: pointer;
+}
